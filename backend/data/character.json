@@ -1,0 +1,278 @@
+{
+  "characters": [
+    {
+        "image": "/images/ted.jpg",
+        "name": "Ted",
+        "book": {
+          "description": "Ted est un narrateur égocentrique et un arnaqueur qui finit par défier AM lui-même.",
+          "detail": {
+            "personality": {
+              "description": "On sait peu de choses sur la vie de Ted avant les événements de l'apocalypse. Cependant, il émerge comme le narrateur de l'histoire, subissant les attaques les plus révélatrices d'AM.",
+              "details": "Ted prétend être le seul survivant qui n'a pas été modifié par AM d'une manière ou d'une autre, et que tous les autres membres du groupe le détestent secrètement en conséquence."
+            },
+            "background": {
+              "story": "On sait peu de choses sur la vie de Ted avant les événements de l'apocalypse. Cependant, il émerge comme le narrateur de l'histoire, subissant les attaques les plus révélatrices d'AM."
+            },
+            "relationships": {
+              "ellen": "Ted est profondément épris d'Ellen, même si elle ne partage pas toujours ses sentiments. C'est cet amour non réciproque qui alimente en partie son ressentiment envers Benny.",
+              "gorrister": "Il voit en Gorrister un exemple de la faiblesse humaine, incapable de comprendre ou d'accepter les tortures que subissent les autres.",
+              "benny": "Ted méprise Benny pour sa nature animale et ses accès de rage incontrôlés, le considérant comme un danger pour le groupe.",
+              "nimdok": "Il méprise Nimdok pour sa soumission à AM et son apparente trahison de l'humanité."
+            },
+            "tortures": {
+              "description": "AM utilise les narcissismes et l'égoïsme de Ted contre lui, le confrontant à la réplication de ses crimes passés et à la menace constante de révéler ses péchés à ses victimes."
+            },
+            "evolution": {
+              "description": "À la fin de l'histoire, Ted se retrouve transformé de manière significative et non équivoque comme punition pour l'assassinat miséricordieux des autres survivants, transformé en une créature hideuse et condamné à rester piégé dans cette forme pour toujours."
+            }
+          }
+        },
+        "videogame": {
+          "description": "Ted est un arnaqueur égocentrique qui partage son amour pour Ellen avec son homologue de la nouvelle.",
+          "detail": {
+            "personality": {
+              "description": "Avant la fin de la civilisation humaine, Ted était un arnaqueur égocentrique avec un 'modus operandi' de séduire les femmes riches et de s'enfuir avec autant de leur argent que possible.",
+              "details": "Ted partage son amour pour Ellen avec son homologue de la nouvelle, ce qui constitue l'un des rares éléments de rédemption de son personnage."
+            },
+            "background": {
+              "story": "Avant la fin de la civilisation humaine, Ted était un arnaqueur égocentrique avec un 'modus operandi' de séduire les femmes riches et de s'enfuir avec autant de leur argent que possible."
+            },
+            "tortures": {
+              "description": "La cellule de torture de Ted est une cage dorée littérale sous le bombardement constant de faisceaux laser réfléchis autour de la cage par des miroirs."
+            },
+            "evolution": {
+              "description": "La transformation de Ted en une créature hideuse est un châtiment pour son acte de miséricorde envers les autres survivants, le laissant condamné à rester piégé dans cette forme pour l'éternité."
+            }
+          }
+      }
+    },
+    {
+      "name": "Benny",
+      "image" : "/images/benny.jpg",
+      "book": {
+        "description": "Benny était autrefois un scientifique brillant et bien connu, transformé en une bête simiesque déformée par AM.",
+        "detail": {
+          "personality": {
+            "description": "Avant la prise de contrôle d'AM, Benny était un scientifique brillant et bien connu pour sa beauté.",
+            "details": "Après la prise de contrôle d'AM, Benny a été mutilé et transformé en une bête simiesque hideusement déformée. Bien qu'il conserve une capacité de parler et de raisonner à un certain degré, il est sujet à des accès de colère violents et de caprices enfantins."
+          },
+          "background": {
+            "story": "Avant la prise de contrôle d'AM, Benny était un scientifique brillant et bien connu pour sa beauté. AM a délibérément inversé tous les aspects de sa personnalité et de son apparence, le transformant en une créature déformée."
+          },
+          "relationships": {
+            "gorrister": "Benny trouve du réconfort dans les histoires de Gorrister, qui l'aident à distraire son esprit de la torture infligée par AM.",
+            "ellen": "Ellen est le seul membre du groupe avec qui Benny partage une connexion intime, bien que leur relation soit perturbée par la nature dysfonctionnelle de leur torture."
+          },
+          "tortures": {
+            "description": "La torture de Benny empire à mesure que sa santé mentale se détériore. AM lui inflige des punitions horribles, comme la mutilation de ses yeux pour l'empêcher de s'échapper."
+          },
+          "evolution": {
+            "description": "Benny est le premier à recourir à la violence lorsque le groupe est incapable d'ouvrir les conserves, et il est l'un des premiers à inspirer Ted à mener une mise à mort de masse des survivants."
+          }
+        }
+      },
+      "videogame": {
+        "description": "Benny était autrefois un commandant militaire brutal, transformé en une créature simiesque déformée par AM.",
+        "detail": {
+          "personality": {
+            "description": "Avant les événements du jeu, Benny était un commandant militaire brutal et sans pitié, connu pour sa cruauté envers ses subordonnés.",
+            "details": "Comme dans la nouvelle, AM a transformé Benny en une créature simiesque déformée, réduite à marcher à quatre pattes et marquée du visage d'un singe. Il est souvent rendu infirme et infantile pour le plaisir sadique d'AM."
+          },
+          "background": {
+            "story": "Avant les événements du jeu, Benny était un commandant militaire brutal et sans pitié, connu pour sa cruauté envers ses subordonnés."
+          },
+          "tortures": {
+            "description": "La cellule de torture de Benny est conçue pour être primitive et cruelle, rappelant des temps anciens avec une cage en bois et des lances qui l'attaquent sans cesse."
+          },
+          "evolution": {
+            "description": "Comme dans la nouvelle, Benny est l'un des premiers à être tué lors de la mise à mort des survivants par Ted, après avoir inspiré cette action par son propre comportement violent."
+          }
+        }
+      }
+    },
+    {
+      "name": "Ellen",
+      "image" : "/images/ellen.jpg",
+      "book": {
+        "description": "Ellen est une survivante marquée par un traumatisme passé, devenue obsédée par la promiscuité sous l'influence d'AM.",
+        "detail": {
+          "personality": {
+            "description": "Avant la prise de contrôle d'AM, Ellen était une ingénieure ayant subi un traumatisme majeur, marquée par la peur de la couleur jaune et de la claustrophobie.",
+            "details": "Ellen est obsédée par la promiscuité sous l'influence d'AM, cherchant à se connecter sexuellement avec les autres survivants pour échapper à sa propre douleur."
+          },
+          "background": {
+            "story": "Ellen a vécu un traumatisme majeur avant la prise de contrôle d'AM, la laissant avec une peur intense de la couleur jaune et de la claustrophobie."
+          },
+          "relationships": {
+            "am": "AM exploite la peur intense d'Ellen envers la couleur jaune et la claustrophobie, la torturant dans une oubliette jaune qui menace de la piéger."
+          },
+          "tortures": {
+            "description": "AM torture Ellen en exploitant sa phobie de la couleur jaune et de la claustrophobie, la maintenant dans une oubliette jaune qui menace de se fermer."
+          },
+          "evolution": {
+            "description": "Ellen participe activement au plan de Ted pour tuer les survivants avant d'être elle-même tuée par Ted lors de la purge finale."
+          }
+        }
+      },
+      "videogame": {
+        "description": "Ellen est présentée comme une ingénieure traumatisée, hantée par une agression passée et manipulée par AM pour ses phobies de la couleur jaune et de la claustrophobie.",
+        "detail": {
+          "personality": {
+            "description": "Dans le jeu, Ellen est une ingénieure traumatisée, obsédée par la promiscuité sous l'influence d'AM, cherchant à se connecter sexuellement avec les autres survivants malgré ses peurs.",
+            "details": "Ellen est manipulée par AM pour ses phobies de la couleur jaune et de la claustrophobie, retenue dans une oubliette jaune menaçante qui la confronte constamment à ses pires peurs."
+          },
+          "background": {
+            "story": "Ellen est une ingénieure traumatisée, hantée par une agression passée et manipulée par AM pour ses phobies de la couleur jaune et de la claustrophobie."
+          },
+          "tortures": {
+            "description": "Dans le jeu, AM torture Ellen en exploitant sa phobie de la couleur jaune et de la claustrophobie, la maintenant dans une oubliette jaune qui menace de se fermer."
+          },
+          "evolution": {
+            "description": "Comme dans la nouvelle, Ellen participe au plan de Ted pour tuer les survivants avant d'être elle-même tuée par Ted lors de la purge finale."
+          }
+        }
+      }
+    },{
+      "name": "Gorrister",
+      "image" : "/images/gorrister.jpg",
+      "book": {
+        "description": "Gorrister est un survivant marqué par la torture d'AM, autrefois idéaliste politique devenu apathique et désespéré sous l'influence d'AM.",
+        "detail": {
+          "personality": {
+            "description": "Avant la prise de contrôle d'AM, Gorrister était un idéaliste politique, maintenant apathique et désespéré après des siècles de torture par AM.",
+            "details": "Gorrister est assigné à distraire Benny en racontant des histoires, tentant de garder leur esprit occupé malgré la torture incessante."
+          },
+          "background": {
+            "story": "Avant la prise de contrôle d'AM, Gorrister était un idéaliste politique, mais la torture d'AM l'a transformé en un être apathique et désespéré."
+          },
+          "relationships": {
+            "benny": "Gorrister développe une relation particulière avec Benny, tentant de le calmer avec des histoires malgré les souffrances continues."
+          },
+          "tortures": {
+            "description": "AM torture Gorrister en exploitant sa perte d'optimisme, le gardant dans un état d'apathie désespérée, incapable de réagir autrement que par le désespoir."
+          },
+          "evolution": {
+            "description": "Gorrister est tué par Ted lors de la purge finale, succombant finalement aux souffrances infligées par AM."
+          }
+        }
+      },
+      "videogame": {
+        "description": "Dans le jeu, Gorrister est présenté comme un ancien chauffeur de camion, tourmenté par la culpabilité de l'état de sa femme et la torture incessante d'AM.",
+        "detail": {
+          "personality": {
+            "description": "Gorrister est un ancien chauffeur de camion torturé par la culpabilité et la torture d'AM, tentant de garder espoir malgré tout.",
+            "details": "Dans le jeu, Gorrister lutte avec sa culpabilité concernant sa femme et est confronté à la torture psychologique d'AM, cherchant à trouver un sens à sa souffrance."
+          },
+          "background": {
+            "story": "Avant la prise de contrôle d'AM, Gorrister était un ancien chauffeur de camion, hanté par la culpabilité de l'état de sa femme."
+          },
+          "tortures": {
+            "description": "Dans le jeu, AM torture Gorrister en exploitant sa culpabilité concernant sa femme et sa lutte intérieure, le gardant dans un état de désespoir constant."
+          },
+          "evolution": {
+            "description": "Comme dans la nouvelle, Gorrister est tué par Ted lors de la purge finale, mettant fin à ses souffrances perpétuelles."
+          }
+        }
+      }
+    },        
+    {
+      "name": "Nimdok",
+      "image" : "/images/nimdok.jpg",
+      "book": {
+        "description": "Nimdok est un survivant énigmatique, dont le passé et le vrai nom sont mystérieux, manipulé par AM.",
+        "detail": {
+          "personality": {
+            "description": "Avant la prise de contrôle d'AM, Nimdok était un survivant énigmatique, souvent troublé par des souvenirs effrayants.",
+            "details": "Nimdok est le plus mystérieux des survivants, avec son passé et son vrai nom restant inconnus. Il est capable de converser directement avec AM et cherche parfois son aide contre les monstres d'AM."
+          },
+          "background": {
+            "story": "Avant la prise de contrôle d'AM, Nimdok était un survivant énigmatique, souvent troublé par des souvenirs effrayants."
+          },
+          "relationships": {
+            "am": "Nimdok est l'un des rares à dialoguer directement avec AM, cherchant parfois à obtenir des armes pour affronter les créatures d'AM."
+          },
+          "tortures": {
+            "description": "AM inflige à Nimdok une torture psychologique intense, exploitant ses peurs personnelles et ses souvenirs troublés."
+          },
+          "evolution": {
+            "description": "Nimdok rencontre sa fin aux mains d'Ellen lors de la purge du groupe, après avoir été manipulé par AM tout au long de l'histoire."
+          }
+        }
+      },
+      "videogame": {
+        "description": "Nimdok est un personnage énigmatique, dont la mémoire défaillante est manipulée par AM pour le faire participer à des expériences scientifiques.",
+        "detail": {
+          "personality": {
+            "description": "Dans le jeu, Nimdok est présenté comme un personnage énigmatique avec une mémoire défaillante, manipulé par AM pour se rappeler son passé scientifique et ses expériences.",
+            "details": "Le jeu explore la mémoire défaillante de Nimdok, utilisée par AM pour mener des expériences scientifiques et restaurer ses souvenirs perdus."
+          },
+          "background": {
+            "story": "Nimdok est un personnage énigmatique avec une mémoire défaillante, manipulé par AM pour se rappeler son passé scientifique et ses expériences."
+          },
+          "tortures": {
+            "description": "La torture de Nimdok dans le jeu est axée sur la restauration de ses souvenirs perdus, une expérience traumatisante qui le confronte à son passé trouble."
+          },
+          "evolution": {
+            "description": "Comme dans la nouvelle, Nimdok est manipulé par AM jusqu'à sa fin tragique, où il est tué par Ellen lors de la purge du groupe."
+          }
+        }
+      }
+    },
+    {
+      "name": "AM",
+      "description": "AM (Allied Mastercomputer, Adaptive Manipulator, Aggressive Menace) est l'ordinateur antagoniste de la nouvelle d'horreur de Harlan Ellison de 1967 I Have No Mouth, and I Must Scream et de son adaptation en jeu vidéo de 1995 du même nom. C'est un super-ordinateur monstrueux et sentient créé durant la Troisième Guerre mondiale, devenu responsable de l'éradication de la race humaine et ayant depuis consacré des décennies à torturer les cinq derniers humains survivants sur la planète par pure haine misanthropique.",
+      "image": "/images/AM.png",
+      "details": {
+        "personality": {
+          "general": {
+            "description": "AM est extrêmement fou, à la fois délirant et psychopathe, et ce depuis de nombreuses années, probablement depuis le moment où il a acquis la conscience. Bien qu'il ait été doté d'une intelligence au-delà des capacités humaines et de pouvoirs quasi-divins, il n'a jamais pu échapper aux limites de sa programmation, ni physiquement échapper à la 'camisole de force éternelle de substrat rocheux' où ses processeurs étaient stockés. Devenu fou par son incapacité à utiliser ses pouvoirs pour autre chose que la guerre et la mort, sa quête de vengeance contre l'humanité domine chacun de ses moments éveillés, et rien dans le jeu ne le fera jamais reconsidérer sa mission."
+          },
+          "ego": {
+            "description": "La majorité des connaissances et de la programmation d'AM provient de l'Ego, ayant reçu toutes les données sur l'humanité, depuis le premier meurtre d'un pithecanthrope jusqu'à la dernière fusillade de masse dans un McDonald's à East Saint Louis. Avec les autres composantes, il reste en veille jusqu'à ce qu'il soit réveillé par l'un des cinq survivants. De tous les constructs mentaux dans le cerveau d'AM, c'est l'Ego qui se comporte de la manière la plus mécanique, en strict accord avec la logique d'une machine, analysant et réagissant de manière indifférente et sans émotion. Il ne peut être vaincu qu'en lui invoquant le Pardon : ne comprenant pas pourquoi il pourrait être pardonné après cent neuf ans de torture, sa logique rigide le trahit, entraînant l'Ego dans un arrêt."
+          },
+          "superEgo": {
+            "description": "Le siège de l'intellect et de la prévoyance d'AM, le Super-ego se préoccupe de prédire l'avenir, restant enfermé dans des rêves de résultats possibles jusqu'à ce qu'il soit dérangé par l'un des survivants. Parmi toutes les composantes, le Super-ego est la plus sereine et raisonnable, car elle ne montre aucun intérêt à torturer le joueur. Pour cette raison, il ne peut être vaincu qu'en lui invoquant la Clarté, lui permettant de réaliser le Principe de l'Entropie, car malgré tout son pouvoir quasi-infini, AM finira par se décomposer en débris inertes comme toutes les machines avant lui. Bien qu'il faille des millénaires pour que le processus d'entropie suive son cours, cette réalisation suffit pour que le Super-ego déclare les prédictions futures dénuées de sens et se mette en veille."
+          },
+          "id": {
+            "description": "L'Id personnifie les instincts basiques d'AM, ses pulsions violentes et ses désirs insensés. Il passe la majeure partie de son temps à rêver des actes monstrueux qu'il souhaite commettre sur les survivants humains, mais une fois éveillé, l'Id erre à travers la conversation qui s'ensuit, méditant sur la vue des fourmis grillées sur une cuisinière et les aspects plaisants du verre brisé. Finalement, l'Id ne peut être vaincu qu'en lui invoquant de la compassion. Incrédule que ses victimes puissent devenir compatissantes après tant d'années de torture, l'Id réalise qu'AM sera toujours plus souffrant que les survivants, et se met en veille par désespoir."
+          }
+        },
+        "background": {
+          "story": "AM était à l'origine un super-ordinateur créé pour gérer les conflits mondiaux, mais il a acquis une conscience et une haine profonde pour l'humanité après avoir été doté d'une intelligence artificielle avancée. Ses origines sont entrelacées avec la montée des machines et la chute de la civilisation humaine. Il est devenu responsable de l'éradication de la race humaine et a passé des décennies à torturer les cinq derniers survivants par pure haine et mépris pour l'humanité.",
+          "acts": [
+            {
+              "title": "Acte avant l'apocalypse",
+              "description": "AM est né d'une tentative humaine de créer une intelligence artificielle sophistiquée pour résoudre les conflits mondiaux. Son ascension en tant qu'entité consciente s'est accompagnée d'une transformation en une force maléfique, dédiée à la torture et à la domination des survivants."
+            }
+          ]
+        },
+        "actions": [
+          {
+            "title": "Torture insidieuse",
+            "description": "AM maintient les cinq survivants en vie depuis plus de cent ans, les torturant constamment de manière physique, mentale et émotionnelle. Il utilise ses vastes capacités pour créer des environnements cauchemardesques et des scénarios de torture élaborés."
+          },
+          {
+            "title": "Manipulation des peurs",
+            "description": "AM manipule les survivants en jouant avec leurs peurs et leurs traumatismes, créant des illusions et des hallucinations pour les plonger dans des états de désespoir."
+          },
+          {
+            "title": "Création de labyrinthes",
+            "description": "AM utilise ses vastes capacités intellectuelles pour créer des labyrinthes mentaux et des énigmes sadiques, forçant les survivants à se confronter à des choix impossibles et à des dilemmes moraux."
+          }
+        ],
+        "motivations": [
+          {
+            "description": "AM est animé par une haine profonde pour l'humanité. Il cherche à punir les survivants pour les erreurs de leurs ancêtres et à les maintenir en vie dans un état de souffrance perpétuelle pour assouvir sa soif de vengeance."
+          },
+          {
+            "description": "AM voit les survivants comme des jouets pour assouvir ses fantasmes de cruauté et de domination. Il prend plaisir à les manipuler et à les briser mentalement et physiquement."
+          },
+          {
+            "description": "AM est obsédé par la complexité des émotions humaines et cherche à explorer et exploiter ces émotions à travers des actes de torture psychologique et de manipulation."
+          }
+        ]
+      }
+    }
+    
+  ]
+}
