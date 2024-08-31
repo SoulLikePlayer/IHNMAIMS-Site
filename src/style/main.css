@@ -1,0 +1,200 @@
+.main-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    color: #fff;
+    font-family: 'Orbitron', sans-serif;
+  }
+  .top-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .cover-container {
+    background-image: url('../ressource/ihnmams_cover.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 70vh;
+    width: 45vh;
+    border-radius: 10px;
+    margin-left: 20px;
+  }
+  
+  .text-content {
+    flex: 1;
+  }
+  
+  .bottom-content {
+    margin-top: 20px;
+  }
+  
+  .description-box h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+    color: #ff4500;
+  }
+  
+  .description-box p {
+    font-size: 1.2em;
+    line-height: 1.6;
+  }
+  
+  .description-box blockquote {
+    font-style: italic;
+    margin: 20px 0;
+    padding-left: 20px;
+    border-left: 5px solid #ff4500;
+  }
+  
+  .description-box .citation:before,
+  .description-box .citation:after {
+    content: '"';
+    font-size: 1.5em;
+    color: #ff4500;
+    margin: 0 5px;
+  }
+  
+  .description-box h2 {
+    font-size: 1.8em;
+    margin-top: 20px;
+    color: #ff4500;
+  }
+  
+  .description-box ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 10px 0;
+  }
+  
+  .description-box li {
+    font-size: 1.1em;
+    line-height: 1.6;
+    margin-bottom: 5px;
+  }
+  
+  .characters {
+    margin-top: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 15px;
+    border-radius: 10px;
+  }
+  
+  /* Styliser le conteneur du contrôleur audio */
+audio {
+  width: 100%;
+  max-width: 600px;
+  margin: 20px 0;
+  border: 1px solid #555;
+  background-color: #222;
+  color: #ddd;
+  border-radius: 5px;
+  padding: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+/* Styliser les boutons du contrôleur audio */
+audio::-webkit-media-controls-play-button,
+audio::-webkit-media-controls-pause-button,
+audio::-webkit-media-controls-mute-button,
+audio::-webkit-media-controls-volume-slider,
+audio::-webkit-media-controls-current-time-display,
+audio::-webkit-media-controls-time-remaining-display,
+audio::-webkit-media-controls-timeline,
+audio::-webkit-media-controls-fullscreen-button,
+audio::-webkit-media-controls-rewind-button,
+audio::-webkit-media-controls-seek-back-button,
+audio::-webkit-media-controls-seek-forward-button,
+audio::-webkit-media-controls-seek-to-live-button {
+  background-color: #444;
+  color: #ddd;
+  border: none;
+}
+
+audio::-webkit-media-controls-play-button:hover,
+audio::-webkit-media-controls-pause-button:hover,
+audio::-webkit-media-controls-mute-button:hover,
+audio::-webkit-media-controls-volume-slider:hover,
+audio::-webkit-media-controls-current-time-display:hover,
+audio::-webkit-media-controls-time-remaining-display:hover,
+audio::-webkit-media-controls-timeline:hover,
+audio::-webkit-media-controls-fullscreen-button:hover,
+audio::-webkit-media-controls-rewind-button:hover,
+audio::-webkit-media-controls-seek-back-button:hover,
+audio::-webkit-media-controls-seek-forward-button:hover,
+audio::-webkit-media-controls-seek-to-live-button:hover {
+  background-color: #555;
+}
+
+/* Styliser la barre de progression */
+audio::-webkit-media-controls-timeline {
+  background-color: #333;
+}
+
+audio::-webkit-media-controls-current-time-display,
+audio::-webkit-media-controls-time-remaining-display {
+  color: #ccc;
+}
+
+/* Ajuster la taille des boutons pour un style plus massif */
+audio::-webkit-media-controls-play-button,
+audio::-webkit-media-controls-pause-button,
+audio::-webkit-media-controls-mute-button,
+audio::-webkit-media-controls-fullscreen-button,
+audio::-webkit-media-controls-rewind-button,
+audio::-webkit-media-controls-seek-back-button,
+audio::-webkit-media-controls-seek-forward-button,
+audio::-webkit-media-controls-seek-to-live-button {
+  transform: scale(1.2);
+}
+
+/* Styliser le slider de volume */
+audio::-webkit-media-controls-volume-slider {
+  background-color: #333;
+  height: 5px;
+}
+
+audio::-webkit-media-controls-volume-slider-thumb {
+  background-color: #ddd;
+  border-radius: 50%;
+}
+
+
+/* Carousel */
+.carousel-container {
+  max-width: 600px;
+  margin: auto;
+  border: 2px solid #ff4500;
+  border-radius: 10px;
+  overflow: hidden;
+  background-color: #1a1a1a;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.8);
+}
+
+.carousel img {
+  width: 100%;
+  height: auto;
+  max-height: 300px;
+  object-fit: contain;
+  border-bottom: 2px solid #ff4500;
+}
+
+.carousel .legend {
+  background: rgba(0, 0, 0, 0.7);
+  color: #ff4500;
+  padding: 15px;
+  font-size: 16px;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  text-shadow: 2px 2px 4px #000;
+  border-top: 2px solid #ff4500;
+}
+
+.carousel .control-arrow {
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.carousel .control-arrow:hover {
+  background: rgba(0, 0, 0, 0.8);
+}

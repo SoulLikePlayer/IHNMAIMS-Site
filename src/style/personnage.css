@@ -1,0 +1,21 @@
+.personnage-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    color: #fff;
+    font-family: 'Orbitron', sans-serif;
+  }
+
+
+.personnage-box {
+    width: 80%;
+    max-width: 800px;
+    background-color: rgba(128, 128, 128, 0.3);
+    padding: 20px;
+    border-radius: 10px;
+    color: #fff;
+    text-align: left;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.6);
+  }
+  

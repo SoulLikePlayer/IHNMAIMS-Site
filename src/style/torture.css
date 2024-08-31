@@ -1,0 +1,30 @@
+.torture-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+  color: #ccc;
+  font-family: 'Orbitron', sans-serif;
+  padding: 20px;
+}
+
+.torture-description-box {
+  width: 100%;
+  max-width: 800px;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: rgba(0, 0, 0, 0.7);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.6);
+}
+
+.torture-container h1 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+  color: #ff4500;
+}
+
+.torture-container p {
+  font-size: 1.2em;
+  line-height: 1.6;
+  text-align: center;
+}

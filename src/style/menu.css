@@ -1,0 +1,16 @@
+/* menu.css */
+
+.App {
+    background-image: url("../ressource/background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    min-height: 200vh;
+    max-height: 200vh;
+    flex-direction: column;
+  }
+  
+  .main {
+    flex: 1;
+    position: relative;
+  }

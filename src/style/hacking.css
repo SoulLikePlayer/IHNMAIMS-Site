@@ -1,0 +1,27 @@
+.hacking-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none; /* Les carrés n'interfèrent pas avec les clics de l'utilisateur */
+  z-index: 1000; /* Assurez-vous qu'ils sont au-dessus de tout le reste */
+}
+
+.hacking-square {
+  position: absolute;
+  background-color: black;
+  opacity: 0.9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.binary-text {
+  color: green; /* Couleur du texte binaire */
+  font-family: 'Courier New', Courier, monospace; /* Police monospace pour un effet numérique */
+  font-size: 0.8em; /* Taille du texte */
+  text-align: center;
+  white-space: pre-wrap; /* Pour que le texte soit bien centré */
+}

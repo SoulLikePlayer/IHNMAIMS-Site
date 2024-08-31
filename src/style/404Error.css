@@ -1,0 +1,33 @@
+.error-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    background-color: #1a1a1a; 
+    color: #ff6666;
+    border: 2px solid #ff6666; 
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); 
+  }
+  
+  .error-container h1 {
+    font-size: 3em;
+    margin-bottom: 20px;
+    font-family: 'Roboto', sans-serif; 
+  }
+  
+  .error-container p {
+    font-size: 1.5em;
+    line-height: 1.6;
+  }
+  
+  .error-container a {
+    color: #ff6666; 
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .error-container a:hover {
+    text-decoration: underline;
+  }
+  
